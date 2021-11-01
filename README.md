@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-More: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
+More: https://github.com/anuraghazra/github-readme-stats#customization , https://github.com/limkokholefork/github-readme-stats/blob/master/themes/README.md , https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limkokhole&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
