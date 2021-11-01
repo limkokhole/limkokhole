@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 More: https://github.com/anuraghazra/github-readme-stats#customization , https://github.com/limkokholefork/github-readme-stats/blob/master/themes/README.md , https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limkokhole&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-My Github Repo:  
+**My Github Repo:**  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=e5289e)](https://github.com/limkokhole/MySejahtera)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PyLogTrace&theme=react)](https://github.com/limkokhole/PyLogTrace)
@@ -44,7 +44,7 @@ My Github Repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=recurcat&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/recurcat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=typea&theme=react)](https://github.com/limkokhole/typea)
 
-Forked (& modified) Github Repo:  
+**Forked (& modified) Github Repo:**  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=youtube-dl-patch)](https://github.com/limkokhole/youtube-dl-patch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PSA-Downloader)](https://github.com/limkokhole/PSA-Downloader)
@@ -52,7 +52,7 @@ Forked (& modified) Github Repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pypub)](https://github.com/limkokhole/pypub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=slideshare-downloader)](https://github.com/limkokhole/slideshare-downloader)
 
-Copied (& minor modified) Code to Github Repo:  
+**Copied (& minor modified) Code to Github Repo:**  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Qt-for-Python-Web-Browser)](https://github.com/limkokhole/Qt-for-Python-Web-Browser)
 
