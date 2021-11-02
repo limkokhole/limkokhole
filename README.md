@@ -60,7 +60,7 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 
 ---
 ### Fork:
-I planning to move all my forks(backup purpose which never get modified) to another accounts at https://github.com/limkokholefork . Any new fork will done in that account until I modify it. 
+Other forked repos at https://github.com/limkokholefork
 
 ---
 <a href="https://stackexchange.com/users/1077108"><img src="https://stackexchange.com/users/flair/1077108.png?theme=clean" width="208" height="58" alt="profile for Fruit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fruit on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
