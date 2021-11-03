@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-More: https://github.com/anuraghazra/github-readme-stats#customization , https://github.com/limkokholefork/github-readme-stats/blob/master/themes/README.md , https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js
+More: https://github.com/anuraghazra/github-readme-stats#customization , https://github.com/limkokholefork/github-readme-stats/blob/master/themes/README.md , https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js , ee6c76
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limkokhole&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### My Github Repo:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=8d060e&text_color=ee6c76)](https://github.com/limkokhole/MySejahtera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=4d81f7&text_color=8d060e)](https://github.com/limkokhole/MySejahtera)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PyLogTrace&theme=react)](https://github.com/limkokhole/PyLogTrace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Catch-Err-All&theme=react&text_color=FF0000)](https://github.com/limkokhole/Catch-Err-All)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pinterest-downloader&theme=monokai)](https://github.com/limkokhole/pinterest-downloader)
