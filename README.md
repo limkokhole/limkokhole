@@ -19,9 +19,9 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 
 ### My Github Repo:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=e5289e)](https://github.com/limkokhole/MySejahtera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=FF34B3)](https://github.com/limkokhole/MySejahtera)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PyLogTrace&theme=react)](https://github.com/limkokhole/PyLogTrace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Catch-Err-All&theme=react)](https://github.com/limkokhole/Catch-Err-All)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Catch-Err-All&theme=react&text_color=FF0000)](https://github.com/limkokhole/Catch-Err-All)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pinterest-downloader&theme=monokai)](https://github.com/limkokhole/pinterest-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drawable-cp&theme=city_lights)](https://github.com/limkokhole/drawable-cp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drama-dailymotion-downloader&title_color=eb1f6a)](https://github.com/limkokhole/drama-dailymotion-downloader)
@@ -32,7 +32,7 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=baiwanzy-downloader&title_color=eb1f6a)](https://github.com/limkokhole/baiwanzy-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=jianfan_grep&theme=react)](https://github.com/limkokhole/jianfan_grep)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=unx&theme=react)](https://github.com/limkokhole/unx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=kpm_textbook_converter&theme=monokai&title_color=e5289e)](https://github.com/limkokhole/kpm_textbook_converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=kpm_textbook_converter&theme=monokai&title_color=CD2990&text_color=696969)](https://github.com/limkokhole/kpm_textbook_converter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=blogspot-downloader&theme=monokai)](https://github.com/limkokhole/blogspot-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=diffhttp&theme=radical)](https://github.com/limkokhole/diffhttp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=diffcurl&theme=city_lights&title_color=fe428e)](https://github.com/limkokhole/diffcurl)
