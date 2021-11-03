@@ -19,7 +19,7 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 
 ### My Github Repo:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=FF34B3)](https://github.com/limkokhole/MySejahtera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=FF34B3&text_color=FF0000)](https://github.com/limkokhole/MySejahtera)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PyLogTrace&theme=react)](https://github.com/limkokhole/PyLogTrace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Catch-Err-All&theme=react&text_color=FF0000)](https://github.com/limkokhole/Catch-Err-All)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pinterest-downloader&theme=monokai)](https://github.com/limkokhole/pinterest-downloader)
