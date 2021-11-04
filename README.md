@@ -17,6 +17,12 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limkokhole&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+### Squid Game:  
+<p align="left">
+  <a href="https://www.youtube.com/embed/SNRb6_QB6tk?start=11&end=14&autoplay=1&controls=0"><img alt="Jump to Left" src="left_front.png" width="40%"/></a><img alt="Jump to Right" src="right_front.png" width="40%"/>
+</p>
+
+---
 ### My Github Repo:  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=monokai&title_color=ffb7c5&icon_color=4d81f7&text_color=dc0917)](https://github.com/limkokhole/MySejahtera)
