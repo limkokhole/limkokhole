@@ -26,7 +26,7 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drawable-cp&theme=city_lights&icon_color=46d17b&title_color=61dafb)](https://github.com/limkokhole/drawable-cp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drama-dailymotion-downloader&title_color=fe428e&icon_color=0d0d0d&text_color=696969)](https://github.com/limkokhole/drama-dailymotion-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=duboku-downloader&theme=radical&icon_color=fd0000&text_color=696969)](https://github.com/limkokhole/duboku-downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=ytdown_manual&theme=radical&icon_color=ff0000&text_color=ffffff)](https://github.com/limkokhole/ytdown_manual)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=ytdown_manual&theme=radical&icon_color=ff0000&text_color=696969)](https://github.com/limkokhole/ytdown_manual)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=find_similar_image&theme=midnight-purple)](https://github.com/limkokhole/find_similar_image)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=mdurl&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/mdurl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=baiwanzy-downloader&title_color=fe428e&icon_color=1c85ee&text_color=696969)](https://github.com/limkokhole/baiwanzy-downloader)
