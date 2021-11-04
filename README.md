@@ -23,12 +23,12 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PyLogTrace&theme=react&icon_color=18b2b2&text_color=ffffff)](https://github.com/limkokhole/PyLogTrace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Catch-Err-All&theme=react&icon_color=ff0000&text_color=ffffff)](https://github.com/limkokhole/Catch-Err-All)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pinterest-downloader&theme=radical&text_color=ffffff&icon_color=e60023)](https://github.com/limkokhole/pinterest-downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drawable-cp&theme=city_lights&icon_color=46d17b)](https://github.com/limkokhole/drawable-cp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drawable-cp&theme=city_lights&icon_color=46d17b&title_color=61dafb)](https://github.com/limkokhole/drawable-cp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=drama-dailymotion-downloader&title_color=fe428e&icon_color=0d0d0d&text_color=696969)](https://github.com/limkokhole/drama-dailymotion-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=duboku-downloader&theme=radical&icon_color=fd0000&text_color=696969)](https://github.com/limkokhole/duboku-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=ytdown_manual&theme=radical&icon_color=ff0000&text_color=ffffff)](https://github.com/limkokhole/ytdown_manual)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=find_similar_image&theme=midnight-purple)](https://github.com/limkokhole/find_similar_image)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=mdurl&theme=city_lights)](https://github.com/limkokhole/mdurl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=mdurl&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/mdurl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=baiwanzy-downloader&title_color=fe428e&icon_color=1c85ee&text_color=696969)](https://github.com/limkokhole/baiwanzy-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=jianfan_grep&theme=react&icon_color=ff0000)](https://github.com/limkokhole/jianfan_grep)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=unx&theme=react)](https://github.com/limkokhole/unx)
@@ -37,7 +37,7 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=diffhttp&theme=radical&title_color=ff0000&icon_color=ffb6b8&text_color=0cff00)](https://github.com/limkokhole/diffhttp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=diffcurl&theme=city_lights&title_color=ff0000&icon_color=8b2f40&text_color=089900)](https://github.com/limkokhole/diffcurl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=ps_brief&theme=react)](https://github.com/limkokhole/ps_brief)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=binaries_brief&theme=city_lights)](https://github.com/limkokhole/binaries_brief)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=binaries_brief&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/binaries_brief)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=superman&theme=react)](https://github.com/limkokhole/superman)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=hisblock&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/hisblock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=print_custom_key&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/print_custom_key)
@@ -47,16 +47,16 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 ---
 ### Forked (& modified) Github Repo:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=youtube-dl-patch)](https://github.com/limkokhole/youtube-dl-patch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PSA-Downloader)](https://github.com/limkokhole/PSA-Downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=IP-Classes)](https://github.com/limkokhole/IP-Classes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pypub)](https://github.com/limkokhole/pypub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=slideshare-downloader)](https://github.com/limkokhole/slideshare-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=youtube-dl-patch&theme=radical&icon_color=ff0000&text_color=ffffff)](https://github.com/limkokhole/youtube-dl-patch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=PSA-Downloader&theme=radical&icon_color=47566c&text_color=696969)](https://github.com/limkokhole/PSA-Downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=IP-Classes&theme=radical&title_color=ff0000&text_color=696969)](https://github.com/limkokhole/IP-Classes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=pypub&theme=monokai&title_color=ffb7c5&text_color=696969)](https://github.com/limkokhole/pypub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=slideshare-downloader&theme=radical&icon_color=007994&text_color=696969)](https://github.com/limkokhole/slideshare-downloader)
 
 ---
 ### Copied (& minor modified) Code to Github Repo:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Qt-for-Python-Web-Browser)](https://github.com/limkokhole/Qt-for-Python-Web-Browser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Qt-for-Python-Web-Browser&theme=radical&title_color=0645ad&text_color=ffffff)](https://github.com/limkokhole/Qt-for-Python-Web-Browser)
 
 ---
 ### Fork:
