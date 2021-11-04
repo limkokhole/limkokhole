@@ -39,9 +39,9 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=ps_brief&theme=react)](https://github.com/limkokhole/ps_brief)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=binaries_brief&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/binaries_brief)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=superman&theme=react)](https://github.com/limkokhole/superman)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=hisblock&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/hisblock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=print_custom_key&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/print_custom_key)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=recurcat&theme=city_lights&title_color=61dafb)](https://github.com/limkokhole/recurcat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=hisblock&theme=react)](https://github.com/limkokhole/hisblock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=print_custom_key&theme=react)](https://github.com/limkokhole/print_custom_key)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=recurcat&theme=react)](https://github.com/limkokhole/recurcat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=typea&theme=react)](https://github.com/limkokhole/typea)
 
 ---
