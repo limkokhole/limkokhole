@@ -17,10 +17,10 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limkokhole&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### Play 🦑 Squid Game (Click left or right):  
+<!-- ### Play 🦑 Squid Game (Click left or right):  
 <p align="left">
   <a href="https://www.youtube.com/embed/SNRb6_QB6tk?autohide=1&mute=1&start=11&end=14&autoplay=1&controls=0&rel=0"><img alt="Jump to Left" src="left_front.png" width="40%"/></a><a href="https://www.youtube.com/embed/SNRb6_QB6tk?autohide=1&mute=1&start=31&end=34&autoplay=1&controls=0&rel=0"><img alt="Jump to Right" src="right_front.png" width="40%"/></a>
-</p>
+</p>-->
 
 ---
 ### My Github Repo:  
@@ -64,10 +64,11 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=Qt-for-Python-Web-Browser&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/limkokhole/Qt-for-Python-Web-Browser)
 
----
+<!-- ---
 ### Fork:
-Other forked repos at https://github.com/limkokholefork
+Other forked repos at https://github.com/limkokholefork 
 
+-->
 ---
 <a href="https://stackexchange.com/users/1077108"><img src="https://stackexchange.com/users/flair/1077108.png?theme=clean" width="208" height="58" alt="profile for Fruit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fruit on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
