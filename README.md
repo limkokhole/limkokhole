@@ -20,9 +20,9 @@ More: https://github.com/anuraghazra/github-readme-stats#customization , https:/
 <!-- ### Play 🦑 Squid Game (Click left or right):  
 <p align="left">
   <a href="https://www.youtube.com/embed/SNRb6_QB6tk?autohide=1&mute=1&start=11&end=14&autoplay=1&controls=0&rel=0"><img alt="Jump to Left" src="left_front.png" width="40%"/></a><a href="https://www.youtube.com/embed/SNRb6_QB6tk?autohide=1&mute=1&start=31&end=34&autoplay=1&controls=0&rel=0"><img alt="Jump to Right" src="right_front.png" width="40%"/></a>
-</p>-->
+</p>
 
----
+--- -->
 ### My Github Repo:  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limkokhole&repo=MySejahtera&theme=city_lights&title_color=718CA1&icon_color=718CA1)](https://github.com/limkokhole/MySejahtera)
